@@ -1,8 +1,8 @@
 # Online-Examination-System
 
-# Reg No: 212224230006
-# Name: ABISHEIK RAJ J
-# Date:14/10/25
+# Reg No: 212224040180
+# Name: MAGESH S
+# Date:27/10/25
 
 ## AIM:
 To develop the Exam Registration System using Star UML
